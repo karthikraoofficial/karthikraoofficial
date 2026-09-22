@@ -21,14 +21,14 @@ card e-mandate debit fails, what is a better retry policy actually worth? It
 measures competing strategies on a synthetic mandate book and recommends a retry
 time with the evidence behind it. Python.
 
-**[Statement Categorizer](https://github.com/karthikraoofficial/Statement-Categorizer)**: a self-correcting AI loop
+**[Bank Statement Categorizer](https://github.com/karthikraoofficial/Statement-Categorizer)**: a self-correcting AI loop
 The loop writes a keyword rulebook for categorising card-statement narrations,
 scores it against labelled data and keeps correcting itself until it reaches
 95% accuracy. The model only ever sees the rows it got wrong, and once the
 rulebook exists, categorising costs zero tokens. Python, FastAPI, Claude API.
 
 **[n8n AI agent workflows](https://github.com/karthikraoofficial/my-n8n-workflows)**
-Agents for the Indian market: stock analysis, a Zerodha holdings recommendation
+Agents for the Indian market: stock analysis, a Zerodha stock holdings recommendation
 engine, real-time transaction fraud-risk scoring, and loan eligibility for
 customers with no credit bureau history.
 
