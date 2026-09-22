@@ -15,7 +15,7 @@ pipeline, and job seekers search, apply and track every status change. Built wit
 Next.js, TypeScript, PostgreSQL and Prisma, with role checks on every server
 action and resumes validated by their file contents.
 
-**[rebound](https://github.com/karthikraoofficial/Autopay_recovery_simulator-recommender)**: recurring-payment retry recovery for India
+**[UPI Enach Card-Autopay Recovery Recommendation Engine & Simulator](https://github.com/karthikraoofficial/Autopay_recovery_simulator-recommender)**: recurring-payment retry recovery for India
 A discrete-event simulator and scoring service. When a UPI AutoPay, eNACH or
 card e-mandate debit fails, what is a better retry policy actually worth? It
 measures competing strategies on a synthetic mandate book and recommends a retry
