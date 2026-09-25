@@ -27,6 +27,13 @@ scores it against labelled data and keeps correcting itself until it reaches
 95% accuracy. The model only ever sees the rows it got wrong, and once the
 rulebook exists, categorising costs zero tokens. Python, FastAPI, Claude API.
 
+**[Tamper Scanner](https://github.com/karthikraoofficial/tamper-scanner)** · [live demo](https://tamper-scanner-five.vercel.app/)
+Has this bank statement PDF been tampered with? Deterministic PDF forensics
+collect the evidence, and an optional LLM assessor gives a verdict that cites
+it. Every decision leaves an audit trail, reviewer corrections become labelled
+regression cases, and a new model or prompt must pass eval thresholds before
+it's promoted. Python, FastAPI, OpenAI API.
+
 **[n8n AI agent workflows](https://github.com/karthikraoofficial/my-n8n-workflows)**
 Agents for the Indian market: stock analysis, a Zerodha stock holdings recommendation
 engine, real-time transaction fraud-risk scoring, and loan eligibility for
