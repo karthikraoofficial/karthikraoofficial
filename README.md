@@ -15,11 +15,11 @@ pipeline, and job seekers search, apply and track every status change. Built wit
 Next.js, TypeScript, PostgreSQL and Prisma, with role checks on every server
 action and resumes validated by their file contents.
 
-**[UPI Enach Card-Autopay Recovery Recommendation Engine & Simulator](https://github.com/karthikraoofficial/Autopay_recovery_simulator-recommender)**: recurring-payment retry recovery for India
-A discrete-event simulator and scoring service. When a UPI AutoPay, eNACH or
+***[UPI Enach Card-Autopay Recovery Recommendation Engine & Simulator](https://github.com/karthikraoofficial/Autopay_recovery_simulator-recommender)** · [live demo](https://autopay-recovery-simulator-recommen.vercel.app/)
+Recurring-payment retry recovery for India. A discrete-event simulator and scoring service. When a UPI AutoPay, eNACH or
 card e-mandate debit fails, what is a better retry policy actually worth? It
 measures competing strategies on a synthetic mandate book and recommends a retry
-time with the evidence behind it. Python.
+time with the evidence behind it. Python and FastAPI, with a React dashboard.
 
 **[Bank Statement Categorizer](https://github.com/karthikraoofficial/Statement-Categorizer)**: a self-correcting AI loop
 The loop writes a keyword rulebook for categorising card-statement narrations,
