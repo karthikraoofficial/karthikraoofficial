@@ -9,6 +9,14 @@ agentic workflows doing the heavy lifting.
 
 ### Featured
 
+**[Zerodha Basket Planner](https://github.com/karthikraoofficial/zerodha-basket-planner)** · [live demo](https://zerodha-basket-planner.vercel.app)
+Given a daily ranked list of stocks and a fixed amount to invest, how many
+shares of each should you buy, and at what limit? It logs in with Kite, checks
+each name against NSE end-of-day data and sizes a basket weighted by conviction,
+with integer-paise money math that never overspends. It shows every name it left
+out, and why. Read-only by design: it cannot place orders. Next.js, TypeScript,
+Kite Connect API.
+
 **[Job Portal](https://github.com/karthikraoofficial/Job-Portal-Employer_Employee)** · [live demo](https://job-portal-employer-employee.vercel.app/login)
 A two-sided hiring platform. Employers post roles and move applicants through a
 pipeline, and job seekers search, apply and track every status change. Built with
