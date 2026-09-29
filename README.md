@@ -60,7 +60,7 @@ customers with no credit bureau history.
 
 ### Off the keyboard
 
-I set up and repair guitars. [Luthier services →](https://github.com/karthikraoofficial/luthierservices)
+I set up and repair guitars. Check out my services: [Karthik's Guitar Clinic →](https://karthiksguitarclinic.lovable.app/), [Luthier services →](https://github.com/karthikraoofficial/luthierservices)
 
 ---
 
