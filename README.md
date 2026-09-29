@@ -9,6 +9,17 @@ agentic workflows doing the heavy lifting.
 
 ### Featured
 
+**ITR Schedule FA · A3 CSV Generator** · [live demo](https://itr-fa-a3-csv.onrender.com) (private repo)
+A paid web app for Indians who hold foreign shares. Upload a holdings sheet in
+any layout and get back the CSV the ITR utility imports for Schedule FA,
+Section A3. Claude maps the columns but never produces a number: code copies and
+checks every amount and date, fills entity details from a checked directory,
+and flags anything that looks wrong. The customer sees a masked preview, then
+pays ₹50 through Razorpay, and the payment is verified on the server before the
+file unlocks. It learns layouts from paid orders, and reuses one only after the
+owner approves it. Next.js, TypeScript, Postgres, Claude API, Razorpay (test
+mode).
+
 **[Zerodha Basket Planner](https://github.com/karthikraoofficial/zerodha-basket-planner)** · [live demo](https://zerodha-basket-planner.vercel.app)
 Given a daily ranked list of stocks and a fixed amount to invest, how many
 shares of each should you buy, and at what limit? It logs in with Kite, checks
