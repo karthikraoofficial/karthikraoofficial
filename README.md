@@ -53,6 +53,17 @@ it. Every decision leaves an audit trail, reviewer corrections become labelled
 regression cases, and a new model or prompt must pass eval thresholds before
 it's promoted. Python, FastAPI, OpenAI API.
 
+**Karthik Rao's Guitar Collection** · [live site](https://karthik-guitar-collection.vercel.app) (private repo)
+An editorial showcase of the metal and rock guitars I own and play. Each guitar
+gets photos, its story, a full spec sheet, a mods and setup log, and demo
+videos, and visitors can filter and sort the collection with shareable links.
+A private admin that only my GitHub account can sign into lets me add and edit
+guitars; changes go live within seconds without a redeploy, and private fields
+like serial numbers and prices never reach the public pages. Scores 95+ on
+Lighthouse mobile with no axe violations, and every animation respects
+reduced-motion settings. Next.js 16, React 19, TypeScript, Tailwind, Drizzle on
+Neon Postgres, Vercel Blob, Auth.js.
+
 **[n8n AI agent workflows](https://github.com/karthikraoofficial/my-n8n-workflows)**
 Agents for the Indian market: stock analysis, a Zerodha stock holdings recommendation
 engine, real-time transaction fraud-risk scoring, and loan eligibility for
