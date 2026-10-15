@@ -9,6 +9,22 @@ agentic workflows doing the heavy lifting.
 
 ### Featured
 
+**Credit Underwriting Platform** · [live demo](https://credit-underwriting-zeta.vercel.app) (private repo)
+Can a lender let AI read the documents without letting it make the credit
+decision? A proof-of-concept underwriting platform for Indian personal loans and
+credit cards, built to demo to lenders. Models classify and extract payslips and
+bank statements, but only after a redaction layer has replaced PAN, Aadhaar,
+account numbers and contact details with tokens. The decision comes from a
+deterministic five-layer policy engine (eligibility, hard policy, business and
+campaign rules, scorecard, fraud) whose rules are versioned YAML packs that are
+frozen once shipped. Every outcome, approvals included, carries reason codes.
+Decisions are written to an append-only ledger and replay byte-identically from
+their stored fact snapshot, and a policy diff shows which applications flip when
+one rule changes. An underwriter console handles referrals, deviations and
+delegated authority across fifteen synthetic borrower personas, from a clean
+approval to a tampered statement. Python, FastAPI, Next.js, TypeScript,
+Postgres, Claude API.
+
 **ITR Schedule FA · A3 CSV Generator** · [live demo](https://itr-fa-a3-csv.onrender.com) (private repo)
 A paid web app for Indians who hold foreign shares. Upload a holdings sheet in
 any layout and get back the CSV the ITR utility imports for Schedule FA,
