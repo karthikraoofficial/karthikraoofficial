@@ -80,6 +80,17 @@ Lighthouse mobile with no axe violations, and every animation respects
 reduced-motion settings. Next.js 16, React 19, TypeScript, Tailwind, Drizzle on
 Neon Postgres, Vercel Blob, Auth.js.
 
+**[YouTube Description Editor](https://github.com/karthikraoofficial/youtube-description-editor)** · [live app](https://youtube-video-description-editor.vercel.app) · [how it works](https://youtube-video-description-editor.vercel.app/how-it-works.html)
+How do you change a link or a line in hundreds of YouTube descriptions without
+breaking one? Pick videos, define one edit to the description, title or tags,
+and review an exact before/after diff for every video, with the quota cost,
+before anything is written. Every run backs up each video first and can be
+restored in one click, videos edited in YouTube Studio since the review are
+skipped rather than overwritten, and every other field goes back to YouTube
+unchanged. Runs on your own machine or on Vercel, where only the owner's Google
+account can sign in. Python, FastAPI, React, TypeScript, Postgres, YouTube Data
+API.
+
 **[n8n AI agent workflows](https://github.com/karthikraoofficial/my-n8n-workflows)**
 Agents for the Indian market: stock analysis, a Zerodha stock holdings recommendation
 engine, real-time transaction fraud-risk scoring, and loan eligibility for
