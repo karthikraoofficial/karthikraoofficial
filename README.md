@@ -96,7 +96,7 @@ Agents for the Indian market: stock analysis, a Zerodha stock holdings recommend
 engine, real-time transaction fraud-risk scoring, and loan eligibility for
 customers with no credit bureau history.
 
-**Clean My TV: ad-free Acer Google TV** (private repo)
+**[Clean My TV: ad-free Acer Google TV](https://github.com/karthikraoofficial/clean-my-tv-acer)** · [before/after screenshots](https://github.com/karthikraoofficial/clean-my-tv-acer#screenshots)
 Can you strip the ads and sponsored rows out of a Google TV without rooting it
 or breaking anything? On my Acer Google TV (Android 14), nine ad and telemetry
 packages are disabled over ADB in small, reversible batches. Nothing is
