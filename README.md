@@ -96,6 +96,18 @@ Agents for the Indian market: stock analysis, a Zerodha stock holdings recommend
 engine, real-time transaction fraud-risk scoring, and loan eligibility for
 customers with no credit bureau history.
 
+**Clean My TV: ad-free Acer Google TV** (private repo)
+Can you strip the ads and sponsored rows out of a Google TV without rooting it
+or breaking anything? On my Acer Google TV (Android 14), nine ad and telemetry
+packages are disabled over ADB in small, reversible batches. Nothing is
+uninstalled, and a restore record is taken before the first change. Each batch
+has to pass a health check covering the Play Store, every streaming app,
+Chromecast, voice search, HDMI and Live TV, and OTA updates. Only changes that
+survive a cold boot are kept. The open-source CleanYourTV launcher replaces the
+stock Home screen, a runbook covers restoring and rechecking after firmware
+updates, and decision records explain the choices. ADB, PowerShell, Python,
+Android.
+
 ### Off the keyboard
 
 I set up and repair guitars. Check out my services: [Karthik's Guitar Clinic →](https://karthiksguitarclinic.lovable.app/), [Luthier services →](https://github.com/karthikraoofficial/luthierservices)
