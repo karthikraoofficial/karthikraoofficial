@@ -47,7 +47,7 @@ Section A3. Claude maps the columns, while code copies and checks every amount
 and date and flags anything that looks wrong. The customer sees a masked
 preview, pays ₹50 through Razorpay, and the payment is verified on the server
 before the file unlocks.
-<sub>Next.js · TypeScript · Postgres · Claude API · Razorpay</sub>
+<sub>Next.js · TypeScript · Neon Postgres · Claude API · Razorpay</sub>
 
 ---
 
