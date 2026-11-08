@@ -33,7 +33,7 @@ agentic AI in financial services · turning product ideas into working prototype
 
 > *Can a lender let AI read the documents without letting it make the credit decision?*
 
-A proof-of-concept underwriting platform for Indian personal loans and credit
+A proof-of-concept underwriting console for Indian personal loans and credit
 cards. Models read payslips and bank statements only after a redaction layer has
 replaced PAN, Aadhaar, account numbers and contact details with tokens. A
 deterministic five-layer policy engine (eligibility, hard policy, business
