@@ -15,7 +15,7 @@ agentic AI in financial services · turning product ideas into working prototype
 
 | Project | Live link |
 |---|---|
-| Credit Underwriting Platform | [credit-underwriting-zeta.vercel.app](https://credit-underwriting-zeta.vercel.app) |
+| Credit Underwriting Console | [credit-underwriting-zeta.vercel.app](https://credit-underwriting-zeta.vercel.app) |
 | Karthik Rao's Job Portal | [job-portal-employer-employee.vercel.app](https://job-portal-employer-employee.vercel.app/login) |
 | ITR Schedule FA · A3 CSV Generator | [itr-fa-a3-csv.onrender.com](https://itr-fa-a3-csv.onrender.com) |
 | UPI · eNACH · Card Autopay Recovery Simulator | [autopay-recovery-simulator-recommen.vercel.app](https://autopay-recovery-simulator-recommen.vercel.app/) |
@@ -29,7 +29,7 @@ agentic AI in financial services · turning product ideas into working prototype
 
 ### ⭐ Start here
 
-#### 1. Credit Underwriting Platform · [live demo](https://credit-underwriting-zeta.vercel.app) · private repo
+#### 1. Credit Underwriting Console · [live demo](https://credit-underwriting-zeta.vercel.app) · private repo
 
 > *Can a lender let AI read the documents without letting it make the credit decision?*
 
