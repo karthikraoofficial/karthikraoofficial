@@ -1,7 +1,7 @@
 ## Hi, I'm Karthik 👋
 
 **Product manager in cards, payments and banking**, based in Bengaluru.
-Previously at Deloitte, RBL Bank and Publicis Sapient.
+Currently at Deloitte. Previously at RBL Bank and Publicis Sapient.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Rao-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-rao-3887a1114)
 
