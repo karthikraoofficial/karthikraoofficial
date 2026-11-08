@@ -3,11 +3,27 @@
 **Product manager in cards, payments and banking**, based in Bengaluru.
 Previously at Deloitte, RBL Bank and Publicis Sapient.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthik_Rao-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-rao-3887a1114)
+
 I answer product questions with working software instead of a slide, usually
 with Gen-AI and agentic workflows doing the heavy lifting.
 
 **Interested in:** payments infrastructure · lending and credit decisioning ·
 agentic AI in financial services · turning product ideas into working prototypes.
+
+### 🔗 Live projects
+
+| Project | Live link |
+|---|---|
+| Credit Underwriting Platform | [credit-underwriting-zeta.vercel.app](https://credit-underwriting-zeta.vercel.app) |
+| UPI · eNACH · Card Autopay Recovery Simulator | [autopay-recovery-simulator-recommen.vercel.app](https://autopay-recovery-simulator-recommen.vercel.app/) |
+| ITR Schedule FA · A3 CSV Generator | [itr-fa-a3-csv.onrender.com](https://itr-fa-a3-csv.onrender.com) |
+| Tamper Scanner | [tamper-scanner-five.vercel.app](https://tamper-scanner-five.vercel.app/) |
+| Zerodha Basket Planner | [zerodha-basket-planner.vercel.app](https://zerodha-basket-planner.vercel.app) |
+| Job Portal | [job-portal-employer-employee.vercel.app](https://job-portal-employer-employee.vercel.app/login) |
+| YouTube Description Editor | [youtube-video-description-editor.vercel.app](https://youtube-video-description-editor.vercel.app) |
+| Karthik Rao's Guitar Collection | [karthik-guitar-collection.vercel.app](https://karthik-guitar-collection.vercel.app) |
+| Karthik's Guitar Clinic | [karthiksguitarclinic.lovable.app](https://karthiksguitarclinic.lovable.app/) |
 
 ---
 
@@ -28,14 +44,14 @@ console handles referrals and delegated authority across fifteen synthetic
 borrowers.
 <sub>Python · FastAPI · Next.js · TypeScript · Postgres · Claude API</sub>
 
-#### 2. [Job Portal](https://github.com/karthikraoofficial/Job-Portal-Employer_Employee) · [live demo](https://job-portal-employer-employee.vercel.app/login)
+#### 2. [UPI · eNACH · Card Autopay Recovery Simulator](https://github.com/karthikraoofficial/Autopay_recovery_simulator-recommender) · [live demo](https://autopay-recovery-simulator-recommen.vercel.app/)
 
-> *What does a complete two-sided hiring platform look like, end to end?*
+> *When a recurring debit fails, what is a better retry policy actually worth?*
 
-Employers post roles and move applicants through a pipeline, and job seekers
-search, apply and track every status change. Role checks run on every server
-action, and resumes are validated by their file contents, not their extension.
-<sub>Next.js · TypeScript · PostgreSQL · Prisma · Better Auth</sub>
+Simulates and scores retry strategies for failed recurring payments in India
+across UPI AutoPay, eNACH and card e-mandates. It runs each strategy on a
+synthetic mandate book and recommends when to retry.
+<sub>Python · FastAPI · React</sub>
 
 #### 3. ITR Schedule FA · A3 CSV Generator · [live demo](https://itr-fa-a3-csv.onrender.com) · private repo
 
@@ -55,7 +71,6 @@ before the file unlocks.
 
 | Project | The question it answers | Built with |
 |---|---|---|
-| **[UPI · eNACH · Card Autopay Recovery Simulator](https://github.com/karthikraoofficial/Autopay_recovery_simulator-recommender)** · [live demo](https://autopay-recovery-simulator-recommen.vercel.app/) | When a recurring debit fails, what is a better retry policy actually worth? Simulates retry strategies on a synthetic mandate book and recommends a retry time. | Python · FastAPI · React |
 | **[Tamper Scanner](https://github.com/karthikraoofficial/tamper-scanner)** · [live demo](https://tamper-scanner-five.vercel.app/) | Has this bank statement PDF been tampered with? Deterministic forensics plus an LLM verdict that cites the evidence, gated by evals. | Python · FastAPI · OpenAI API |
 | **[Bank Statement Categorizer](https://github.com/karthikraoofficial/Statement-Categorizer)** | A self-correcting AI loop writes a rulebook that categorises card transactions to 95% accuracy, then runs at zero tokens. | Python · FastAPI · Claude API |
 | **[Zerodha Basket Planner](https://github.com/karthikraoofficial/zerodha-basket-planner)** · [live demo](https://zerodha-basket-planner.vercel.app) | Given a ranked stock list and a fixed amount, how many shares of each should you buy? Read-only: it can't place orders. | Next.js · TypeScript · Kite Connect |
@@ -65,7 +80,14 @@ before the file unlocks.
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[Job Portal](https://github.com/karthikraoofficial/Job-Portal-Employer_Employee)** · [live demo](https://job-portal-employer-employee.vercel.app/login) | A complete two-sided hiring platform. Employers post roles and move applicants through a pipeline, and job seekers search, apply and track every status change. Role checks run on every server action, and resumes are validated by their file contents, not their extension. | Next.js · TypeScript · PostgreSQL · Prisma · Better Auth |
 | **[YouTube Description Editor](https://github.com/karthikraoofficial/youtube-description-editor)** · [live app](https://youtube-video-description-editor.vercel.app) | Bulk-edit descriptions, titles and tags across hundreds of videos, with a diff for each one, a backup before every write and one-click restore. | Python · FastAPI · React · YouTube Data API |
+
+### 🧰 Toolkit
+
+<sub>Python · TypeScript · FastAPI · Next.js · React · Postgres · Claude API · OpenAI API · n8n · Claude Code · Vercel · Render</sub>
+
+---
 
 ### 🏠 Home lab: debloating, safely
 
@@ -87,3 +109,7 @@ care for detail goes into a fret level as into a policy engine.
 | **Karthik Rao's Guitar Collection** · [live site](https://karthik-guitar-collection.vercel.app) · private repo | An editorial showcase of the metal and rock guitars I own and play: photos, stories, spec sheets, setup logs and demo videos, with a private admin. Scores 95+ on Lighthouse mobile with no accessibility violations. | Next.js 16 · React 19 · Drizzle · Neon Postgres |
 | **Karthik's Guitar Clinic** · [book a setup →](https://karthiksguitarclinic.lovable.app/) | My guitar setup and repair service. See what I offer and get in touch. | Lovable |
 | **[Luthier services](https://github.com/karthikraoofficial/luthierservices)** | Guitar setup and repair services by Karthik Rao. | HTML |
+
+---
+
+<sub>Say hello on [LinkedIn](https://www.linkedin.com/in/karthik-rao-3887a1114).</sub>
